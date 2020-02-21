@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xanadu.NotifyPropertyChanged", "Xanadu.NotifyPropertyChanged\Xanadu.NotifyPropertyChanged.csproj", "{A50DD6DF-DE8F-4A2C-A7A4-BCF8311B4106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A50DD6DF-DE8F-4A2C-A7A4-BCF8311B4106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A50DD6DF-DE8F-4A2C-A7A4-BCF8311B4106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A50DD6DF-DE8F-4A2C-A7A4-BCF8311B4106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A50DD6DF-DE8F-4A2C-A7A4-BCF8311B4106}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F0F677C-7632-4841-B2A7-A8B7960204E5}
+	EndGlobalSection
+EndGlobal
